@@ -1,6 +1,6 @@
-# Hack McWiCS 2025: Resource Package Guide 💻
+# Hack McWiCS 2026: Resource Package Guide 💻
 
-Welcome to the **Hack McWiCS 2025 Resource Package**! This guide is crafted to help you hit the ground running with your hackathon project. Whether this is your first hackathon or you're looking on exploring new technologies, you'll find a variety of tools, tutorials, and best practices to support you.
+Welcome to the **Hack McWiCS 2026 Resource Package**! This guide is crafted to help you hit the ground running with your hackathon project. Whether this is your first hackathon or you're looking on exploring new technologies, you'll find a variety of tools, tutorials, and best practices to support you.
 
 If you’re stuck on anything, don’t be scared to ask for help from our mentors. They’re here to support you all throughout the weekend!! There are no dumb questions (like actually)!
 
@@ -1166,7 +1166,7 @@ Devpost is the go-to platform for hackers to showcase their projects, connect wi
 ### How to Submit a Project
 During Hack McWiCS, Devpost is the platform where you'll need to submit your hackathon project in order to be eligible for judging and prizes. Here's how:
 1. Create a [Devpost](https://devpost.com/) account (if you don't have one already).
-2. [Register](https://help.devpost.com/article/119-registering-for-a-hackathon) for the Hack McWiCS 2025 hackathon [here](https://hack-mcwics-2025.devpost.com/).
+2. [Register](https://help.devpost.com/article/119-registering-for-a-hackathon) for the Hack McWiCS 2026 hackathon [here](https://hack-mcwics-2026.devpost.com/).
 3. [Create](https://help.devpost.com/article/122-how-to-enter-a-submission) a submission (check note below).
 4. [Submit](https://help.devpost.com/article/126-know-your-submission-steps) a project.
 5. You can [edit](https://help.devpost.com/article/123-how-to-edit-a-submission) a submission any time before the deadline.
@@ -1174,7 +1174,7 @@ During Hack McWiCS, Devpost is the platform where you'll need to submit your hac
 More information [here](https://help.devpost.com/category/20-submitting-to-a-hackathon)
 
 > [!NOTE]  
-> When first creating a project, only 1 team member needs to create a project and then that team member can invite all the other teammates to collaborate on the same project through the "Manage Team" tab. Each team member needs to create their own devpost account (step 1) and register for the Hack McWiCS 2025 hackathon devpost (step 2).
+> When first creating a project, only 1 team member needs to create a project and then that team member can invite all the other teammates to collaborate on the same project through the "Manage Team" tab. Each team member needs to create their own devpost account (step 1) and register for the Hack McWiCS 2026 hackathon devpost (step 2).
 
 ### What to Include in your Devpost Submission
 
