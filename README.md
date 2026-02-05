@@ -1129,36 +1129,75 @@ Jinja templating engine and Flask tutorial: [https://codingnomads.com/python-fla
 SQLAlchemy and Flask: [https://www.digitalocean.com/community/tutorials/how-to-use-flask-sqlalchemy-to-interact-with-databases-in-a-flask-application](https://www.digitalocean.com/community/tutorials/how-to-use-flask-sqlalchemy-to-interact-with-databases-in-a-flask-application)
 
 ## Project ideas
+If you're not sure what to build, that’s completely normal. Here are some project ideas that are doable for most teams:
 
-Django is a bit more complicated, but has more features than Flask. Check out the official Django site: [https://www.djangoproject.com/start](https://www.djangoproject.com/start)
+### Simple web app ideas
 
-If you're purely interested in building an API, check out FastAPI: [https://fastapi.tiangolo.com](https://fastapi.tiangolo.com)
+- **Habit tracker**  
+  Track daily habits with checkboxes or streaks.
 
-Use ExpressJS (a JavaScript web framework) to build a JavaScript-based web application: [https://expressjs.com](https://expressjs.com)
+- **Basic blog app**  
+  Create and view posts (even without login).
 
-Build a Chrome extension (it's good fun, and you only need to know JavaScript, HTML, CSS): [https://developer.chrome.com/docs/extensions/get-started](https://developer.chrome.com/docs/extensions/get-started)
+- **Recipe book**  
+  Save recipes, search through them, and display ingredients.
 
-Learn React, a very popular library for frontend development: [https://react.dev/learn](https://react.dev/learn)
+Tech stack: HTML/CSS + Flask or Express
 
-Quickly build a React-based web application using NextJS: [https://nextjs.org](https://nextjs.org)
 
-Use OpenCV to capture video input from your webcam and create a script to do something with it: [https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera](https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera)
+### API-based ideas
 
-Call a Web API (or multiple): [https://apilist.fun](https://apilist.fun)
+- **Weather + outfit suggestion app**  
+  Uses a weather API and displays recommendations.
 
-Scrape websites with Selenium and Beautiful Soup: [https://www.codecademy.com/article/web-scrape-with-selenium-and-beautiful-soup](https://www.codecademy.com/article/web-scrape-with-selenium-and-beautiful-soup)
+- **Movie / book search app**  
+  Search an API and let users save favourites.
 
-Build a Discord bot with Python, or even serve both a Discord bot and another application with your own API: [https://discordpy.readthedocs.io/en/stable](https://discordpy.readthedocs.io/en/stable)
+- **Local event finder**  
+  Pull events from an API and show them in a simple UI.
 
-Use React Native with Expo to build a mobile app: [https://reactnative.dev/docs/environment-setup](https://reactnative.dev/docs/environment-setup)
+Tech stack: React or basic frontend + any API
 
-Render 3D scenes with the JavaScript engine (making it possible for them to be displayed in your browser): [https://threejs.org](https://threejs.org)
 
-Create an application with live updates (ex. for a multiplayer game or chatting) with Socket.IO: [https://socket.io/get-started/chat](https://socket.io/get-started/chat)
+### Projects with a database
 
-...or using with Google Firebase: [https://deadsimplechat.com/blog/firebase-chat-app-tutorial](https://deadsimplechat.com/blog/firebase-chat-app-tutorial)
+- **Volunteer signup tool**  
+  Users can browse and register for opportunities.
 
-You can even use SocketIO with Flask: [https://flask-socketio.readthedocs.io/en/latest/getting_started.html](https://flask-socketio.readthedocs.io/en/latest/getting_started.html)
+- **Expense tracker**  
+  Log expenses and show a summary.
+
+- **Simple marketplace**  
+  Users post items they want to sell or exchange.
+
+Tech stack: Spring Boot / ASP.NET + PostgreSQL
+
+
+### Beginner-friendly ML ideas
+
+- **Study note summarizer**  
+  Paste text and get a short summary.
+
+- **Resume feedback helper**  
+  Suggest improvements or formatting tips.
+
+- **Simple sentiment tracker**  
+  Analyze journal entries over time.
+
+Tech stack: HuggingFace + Flask
+
+
+### Fun / creative projects
+
+- **Multiplayer trivia game**  
+  Players join and answer questions live.
+
+- **Small 2D game**  
+  Built with PyGame.
+
+- **Habit tracker with a virtual pet**  
+  Complete tasks to keep the pet happy.
+
 
 # Devpost
 Devpost is the go-to platform for hackers to showcase their projects, connect with fellow hackers, and participate in hackathons. 
@@ -1186,7 +1225,8 @@ Make sure to include the following in your Devpost submission:
 - **Screenshots or a video of your project** – Include visuals to showcase the project in action, making it easier for others to understand what it looks like and how it works.
 
 ### How to View Previous Projects
-You can also use Devpost to get inspiration for your next hack by exploring all of the projects submitted in previous editions of Hack McWiCS through the [project gallary](https://help.devpost.com/article/80-what-is-the-project-gallery).
+You can also use Devpost to get inspiration for your next hack by exploring all of the projects submitted in previous editions of Hack McWiCS through the [project gallery](https://help.devpost.com/article/80-what-is-the-project-gallery).
+- [Hack McWiCS 2025](https://hack-mcwics-2025.devpost.com/)
 - [Hack McWiCS 2024](https://hack-mcwics-2024.devpost.com/)
 - [Hack McWiCS 2023](https://hack-mcwics-2023.devpost.com/)
 
