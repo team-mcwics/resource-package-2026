@@ -43,7 +43,9 @@ Check the **Table of Contents** for a comprehensive overview of the topics cover
 - [Devpost](#devpost)
     - [How to Submit a Project](#how-to-submit-a-project)
     - [What to Include in Your Submission](#what-to-include-in-your-devpost-submission)
-    - [How to View Previous Projects](#how-to-view-previous-projects)    
+    - [How to View Previous Projects](#how-to-view-previous-projects)
+- [MLH Judging Criteria](#mlh-judging-criteria)
+
 
 # Github
 Tutorial here: https://www.youtube.com/watch?si=EaZW9mRQfM7aUHfj&v=q-xOTDE85_4&feature=youtu.be
@@ -1390,4 +1392,69 @@ You can also use Devpost to get inspiration for your next hack by exploring all 
 - [Hack McWiCS 2025](https://hack-mcwics-2025.devpost.com/)
 - [Hack McWiCS 2024](https://hack-mcwics-2024.devpost.com/)
 - [Hack McWiCS 2023](https://hack-mcwics-2023.devpost.com/)
+
+
+# MLH Judging Criteria
+
+MLH (Major League Hacking) judges online hackathons based on **four equally weighted criteria**.  
+Projects are typically submitted through **Devpost**, and judging focuses on:
+- Originality  
+- Innovation  
+- Potential real-world impact  
+- Overall “wow” factor  
+
+## Key Criteria Breakdown (25% Each)
+### Technology (25%)
+
+How technically impressive is the project?
+Judges look for:
+- Challenging or clever implementations  
+- Use of interesting APIs  
+- AI/ML components  
+- Strong engineering depth
+  
+
+### Design (25%)
+
+How does the project feel to use?
+A strong project has:
+- An intuitive interface  
+- Clean visuals  
+- Good user experience (UX)  
+- Thoughtful interaction design  
+
+
+### Completion (25%)
+
+Does the project actually work?
+Judges prioritize:
+- Fully functional projects  
+- Working demos over unfinished prototypes  
+- Minimal bugs and smooth execution  
+
+
+### Learning (25%)
+
+Did your team grow and stretch your skills?
+This includes:
+- Learning new tools/frameworks  
+- Exploring unfamiliar technologies  
+- Challenging yourselves beyond comfort zones  
+
+
+## Additional Considerations
+
+### Originality & Innovation
+Creative ideas and fresh approaches stand out the most.
+
+### Use of Git/GitHub
+MLH expects projects to include:
+
+- A public GitHub repository  
+- A clear README  
+- Visible and active commit history  
+
+### Rules & Submission
+Projects must be built during the hackathon time window.  
+Pre-existing code is typically not allowed.
 
