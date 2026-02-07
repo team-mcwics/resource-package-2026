@@ -1,10 +1,8 @@
 # Hack McWiCS 2026: Resource Package Guide 💻
 
-Welcome to the **Hack McWiCS 2026 Resource Package**! This guide is crafted to help you hit the ground running with your hackathon project. Whether this is your first hackathon or you're looking on exploring new technologies, you'll find a variety of tools, tutorials, and best practices to support you.
+Welcome to the **Hack McWiCS 2026 Resource Package**! This guide includes tools, tutorials, and tips to help you get started on your project!
 
-If you’re stuck on anything, don’t be scared to ask for help from our mentors. They’re here to support you all throughout the weekend!! There are no dumb questions (like actually)!
-
-Check the **Table of Contents** for a comprehensive overview of the topics covered!
+If you’re stuck on anything, don’t be scared to ask for help from our mentors. They’re here to support you all throughout the weekend!!
 
 # Table of Contents
 - [Github](#github)
