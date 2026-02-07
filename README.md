@@ -48,6 +48,167 @@ Check the **Table of Contents** for a comprehensive overview of the topics cover
 # Github
 Tutorial here: https://www.youtube.com/watch?si=EaZW9mRQfM7aUHfj&v=q-xOTDE85_4&feature=youtu.be
 
+## What are Git and GitHub?
+
+**Git** is a version control system that helps you:
+- Save versions of your code
+- Track changes over time
+- Collaborate safely
+
+**GitHub** is a platform that lets you:
+- Store Git repositories online
+- Work with teams
+- Share open-source projects
+
+## Create a Repository
+A repository (repo) is where your project lives on GitHub.
+
+**Option A**: Create a Repo on GitHub
+
+1. Go to https://github.com  
+2. Click the **+** icon → **New repository**
+3. Enter a repository name (example: `my-project`)
+4. Choose:
+   - Public (anyone can see)
+   - Private (only you can see)
+5. (Optional) Check **Add a README**
+6. Click **Create repository**
+
+**Option B**: Create a Repo Locally
+
+Create a project folder:
+
+```bash
+mkdir my-project
+cd my-project
+```
+Initialize Git:
+```bash
+git init
+```
+After choosing Option A or B, connect it to GitHub later using:
+```bash
+git remote add origin https://github.com/username/my-project.git
+```
+
+## Clone a Repository
+Cloning downloads a GitHub repo to your computer.
+
+**Clone Command**
+```bash
+git clone https://github.com/username/repository-name.git
+```
+
+## Basic Github Worflow
+**Step 1: Check Status**
+See what files changed:
+```bash
+git status
+```
+
+**Step 2: Stage Changes**
+Stage one file:
+```bash
+git add file.txt
+```
+
+Stage everything:
+```bash
+git add .
+```
+
+**Step 3: Commit Changes**
+Save a snapshot of your work:
+```bash
+git commit -m "Added new feature"
+```
+
+**Step 4: Push to GitHub**
+Upload commits to GitHub:
+```bash
+git push origin main
+```
+
+
+## Pulling Updates
+Pulling downloads the newest version of the repo from GitHub.
+**Pull Latest Changes**
+```bash
+git pull origin main
+```
+Use this before starting new work, especially on team projects.
+
+
+## Branching
+Branches let you work on features without affecting the main code.
+
+**Create a New Branch**
+```bash
+git checkout -b feature-name
+```
+**View All Branches**
+```bash
+git branch
+```
+
+**Switch Branches**
+```bash
+git checkout main
+```
+or 
+```bash
+git checkout feature-login
+```
+
+## Merging
+Merging combines changes from one branch into another.
+
+**Step 1: Switch to main branch**
+```bash
+git checkout main
+```
+**Step 2: Merge the feature branch** 
+```bash
+git merge feature-login
+```
+Now your feature is part of main.
+
+## Pull Requests (PRs)
+Pull Requests are the professional way to merge code on GitHub.
+They allow:
+- Code review
+- Discussion
+- Safe merging
+
+**PR Workflow**
+**Step 1: Create a Branch**
+```bash
+git checkout -b feature-dashboard
+```
+
+**Step 2: Make changes + commit**
+```bash
+git add .
+git commit -m "Built dashboard layout"
+```
+
+**Step 3: Push branch to GitHub**
+```bash
+git push origin feature-dashboard
+```
+
+**Step 4: Open a Pull Request**
+- Go to your repo on GitHub
+- Click Compare & Pull Request
+- Add a title + description
+- Click Create Pull Request
+
+**Step 5: Merge PR**
+
+Once approved, click:
+✅ Merge Pull Request
+
+
 # Figma & UI/UX Design
 
 ## UI/UX Design
